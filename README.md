@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tomassheffer
+- 👀 I’m interested in Python.
+- 🌱 I’m currently learning machine learning.
